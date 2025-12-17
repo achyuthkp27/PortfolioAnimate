@@ -22,7 +22,7 @@ const App = () => (
         <Sonner />
         <CustomCursor />
         <ScrollProgress />
-        <BrowserRouter>
+        <BrowserRouter basename={import.meta.env.BASE_URL}>
           <SmoothScroll>
             <Routes>
               <Route path="/" element={<Index />} />
