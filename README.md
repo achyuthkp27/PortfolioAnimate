@@ -14,7 +14,7 @@
 
 **A high-performance, immersive portfolio experience crafted for the modern web.**
 
-[View Demo](https://achyuth.dev) · [GitHub Profile](https://github.com/achyuthkp27) · [Contact Me](https://linkedin.com/in/kpachyuth)
+[View Demo](https://achyuthkp27.github.io/PortfolioAnimate) · [GitHub Profile](https://github.com/achyuthkp27) · [Contact Me](https://linkedin.com/in/kpachyuth)
 
 </div>
 
