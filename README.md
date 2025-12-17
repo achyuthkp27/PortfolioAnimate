@@ -1,4 +1,4 @@
-# ⚡️ Creative Developer Portfolio
+# ⚡️ Achyuth KP - Creative Developer Portfolio
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 **A high-performance, immersive portfolio experience crafted for the modern web.**
 
-[View Demo](https://your-demo-url.com) · [Report Bug](https://github.com/yourusername/repo/issues) · [Request Feature](https://github.com/yourusername/repo/issues)
+[View Demo](https://achyuth.dev) · [GitHub Profile](https://github.com/achyuthkp27) · [Contact Me](https://linkedin.com/in/kpachyuth)
 
 </div>
 
@@ -22,9 +22,9 @@
 
 ## 🚀 Overview
 
-Welcome to a portfolio that pushes the boundaries of web interaction. This project isn't just a showcase of work; it's a testament to the power of modern frontend engineering. Built with a focus on **performance**, **accessibility**, and **visual excellence**, this application delivers a seamless and engaging user experience.
+Welcome to my personal portfolio. This project represents my journey as a **Software Developer** specializing in **React, Spring Boot, and AWS**. It pushes the boundaries of web interaction, serving as a testament to the power of modern frontend engineering. Built with a focus on **performance**, **accessibility**, and **visual excellence**, it delivers a seamless and engaging user experience.
 
-Leveraging the cutting-edge capabilities of **Three.js** and **React Three Fiber**, combined with the smooth animations of **Framer Motion**, this portfolio serves as a living demonstration of creative development skills.
+Leveraging the cutting-edge capabilities of **Three.js** and **React Three Fiber**, combined with the smooth animations of **Framer Motion**, this portfolio serves as a living demonstration of my creative development skills.
 
 ## ✨ Key Features
 
@@ -66,8 +66,8 @@ Ensure you have the following installed:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/your-portfolio-repo.git
-    cd your-portfolio-repo
+    git clone https://github.com/achyuthkp27/portfolio-v2.git
+    cd portfolio-v2
     ```
 
 2.  **Install dependencies**
@@ -134,6 +134,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-**Built with ❤️ by [Your Name](https://github.com/yourusername)**
+**Built with ❤️ by [Achyuth KP](https://github.com/achyuthkp27)**
 
 </div>

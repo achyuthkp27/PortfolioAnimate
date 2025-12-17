@@ -93,7 +93,7 @@ const Hero3D = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8">
             <TextReveal type="fade-up" delay={0.2}>
-              <span className="inline-flex items-center gap-2 px-4 py-2 text-xs font-mono tracking-wider uppercase text-[#22c55e] bg-[#22c55e]/10 rounded-full border border-[#22c55e]/30 animate-glow-pulse">
+              <span className="inline-flex items-center gap-2 px-4 py-2 text-xs font-mono tracking-wider uppercase text-[#22c55e] bg-[#22c55e]/10 rounded-full border border-[#22c55e]/30 shadow-[0_0_20px_rgba(34,197,94,0.3)]">
                 <span className="w-2 h-2 bg-[#22c55e] rounded-full animate-pulse" />
                 Available for opportunities
               </span>
