@@ -8,10 +8,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/achyuthkp27/portfolio-v2.git"
+    "url": "git+https://github.com/achyuthkp27/PortfolioAnimate.git"
   },
   "bugs": {
-    "url": "https://github.com/achyuthkp27/portfolio-v2/issues"
+    "url": "https://github.com/achyuthkp27/PortfolioAnimate/issues"
   },
   "type": "module",
   "scripts": {

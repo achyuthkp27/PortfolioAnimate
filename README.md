@@ -14,7 +14,7 @@
 
 **A high-performance, immersive portfolio experience crafted for the modern web.**
 
-[View Demo](https://achyuthkp27.github.io/PortfolioAnimate) · [GitHub Profile](https://github.com/achyuthkp27) · [Contact Me](https://linkedin.com/in/kpachyuth)
+[View Demo](https://achyuthkp27.github.io/PortfolioAnimate/) · [Report Bug](https://github.com/achyuthkp27/PortfolioAnimate/issues) · [Request Feature](https://github.com/achyuthkp27/PortfolioAnimate/issues)
 
 </div>
 
@@ -66,8 +66,8 @@ Ensure you have the following installed:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/achyuthkp27/portfolio-v2.git
-    cd portfolio-v2
+    git clone https://github.com/achyuthkp27/PortfolioAnimate.git
+    cd PortfolioAnimate
     ```
 
 2.  **Install dependencies**
